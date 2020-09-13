@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8b81fde-94ee-4968-a777-5c3e1b980bcf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hAt6HnFCIBEap3XbQXYNCb6KLa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Opgave12">
+    <configuration name="Opgave1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opgave1" />
+      <module name="Opgaver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opgave10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opgave10" />
+      <module name="Opgaver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opgave12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opgave12" />
+      <module name="Opgaver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opgave6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opgave6" />
+      <module name="Opgaver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opgave8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opgave8" />
+      <module name="Opgaver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Opgave12" />
+        <item itemvalue="Application.Opgave10" />
+        <item itemvalue="Application.Opgave8" />
+        <item itemvalue="Application.Opgave6" />
+        <item itemvalue="Application.Opgave1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8b81fde-94ee-4968-a777-5c3e1b980bcf" name="Default Changelist" comment="" />
+      <created>1599465547359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599465547359</updated>
+      <workItem from="1599465552159" duration="10404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="961" height="213" key="GridCell.Tab.0.bottom" timestamp="1599695531098">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="961" height="213" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1599471735630" />
+    <state width="961" height="213" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1599468704496" />
+    <state width="961" height="213" key="GridCell.Tab.0.bottom/0.23.1920.991@0.23.1920.991" timestamp="1599524876768" />
+    <state width="961" height="213" key="GridCell.Tab.0.bottom/0.23.1920.992@0.23.1920.992" timestamp="1599695531098" />
+    <state width="961" height="213" key="GridCell.Tab.0.center" timestamp="1599695531095">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="961" height="213" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1599471735628" />
+    <state width="961" height="213" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1599468704494" />
+    <state width="961" height="213" key="GridCell.Tab.0.center/0.23.1920.991@0.23.1920.991" timestamp="1599524876766" />
+    <state width="961" height="213" key="GridCell.Tab.0.center/0.23.1920.992@0.23.1920.992" timestamp="1599695531095" />
+    <state width="961" height="213" key="GridCell.Tab.0.left" timestamp="1599695531094">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="961" height="213" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1599471735627" />
+    <state width="961" height="213" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1599468704493" />
+    <state width="961" height="213" key="GridCell.Tab.0.left/0.23.1920.991@0.23.1920.991" timestamp="1599524876763" />
+    <state width="961" height="213" key="GridCell.Tab.0.left/0.23.1920.992@0.23.1920.992" timestamp="1599695531094" />
+    <state width="961" height="213" key="GridCell.Tab.0.right" timestamp="1599695531096">
+      <screen x="0" y="23" width="1920" height="992" />
+    </state>
+    <state width="961" height="213" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1599471735629" />
+    <state width="961" height="213" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1599468704495" />
+    <state width="961" height="213" key="GridCell.Tab.0.right/0.23.1920.991@0.23.1920.991" timestamp="1599524876767" />
+    <state width="961" height="213" key="GridCell.Tab.0.right/0.23.1920.992@0.23.1920.992" timestamp="1599695531096" />
+  </component>
+</project>
